@@ -1,12 +1,7 @@
-<style>
-.aqua{
-    color: aqua;
-}
-</style>
 
 # 此為 Lab03 + Lab04  
 <br>
-<p class="aqua">
+<p>
 master branch 
 </p>
 <div>
@@ -20,7 +15,7 @@ Lab03 的作業 (十個數字 scanf 的 c檔)
 <br>
 <hr>
 
-<p class="aqua">
+<p>
 Makefile branch 
 </p>
 <div>
