@@ -7,4 +7,4 @@ hello.o: hello.c lab04.h
 printNumber.o: printNumber.c lab04.h
 	gcc -c printNumber.c
 clean:
-	rm main.o hello.o printNumber.o
+	rm main.o hello.o printNumber.o main.c hello.c printNumber.c
